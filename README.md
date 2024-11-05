@@ -58,6 +58,7 @@ int main() {
 ```
 # OUTPUT
 k.txt file
+
 ![380493887-e220dba2-be5f-40e5-8bce-724b73032fe0](https://github.com/user-attachments/assets/0253350b-5175-4ff6-b542-deee2ca5def0)
 
 # PROGRAM OUTPUT:
